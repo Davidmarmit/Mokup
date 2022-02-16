@@ -19,7 +19,21 @@ li {
   display: inline-block;
 }
 
+p{
+  text-align: justify;
+  font-family: "Calibri";
+  margin: 5px;
+}
+
+footer{
+  background-color: lightgray;
+  position:absolute;
+  display: inline-block;
+  bottom:0;
+  height:90px;
+  margin-right:50px;
+}
 a {
   display: block;
-  padding: 8px;
+  padding: 5px;
 }
